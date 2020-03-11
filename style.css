@@ -1,1 +1,13 @@
-background {color:black;}
+body{ 
+  background-color:gray;}
+p {
+  color:red;
+}
+
+ol {
+  color:white;
+}
+
+h1 {
+  color:blue;
+}
